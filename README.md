@@ -2,6 +2,10 @@
 
 > Minimal, beautiful and fast fish prompt
 
+There are too many prompts that clutter and overload your terminal, [mooji](https://github.com/rodrigobdz/mooji) delivers all the info you need in a clean and structured way.
+
+**Simplicity** makes [mooji](https://github.com/rodrigobdz/mooji) **awesome**.
+
 <img src="screenshot.png" width="864">
 
 ## Requirements
