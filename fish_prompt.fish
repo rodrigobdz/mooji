@@ -1,4 +1,5 @@
 set fish_prompt_pwd_dir_length 1
+set __fish_git_prompt_show_informative_status 1
 
 # Fish command and parameter colors
 set fish_color_command green
@@ -17,9 +18,12 @@ set __fish_git_prompt_color_invalidstate red
 
 # Git Characters
 set __fish_git_prompt_char_dirtystate '*'
+set __fish_git_prompt_char_stateseparator ' '
+set __fish_git_prompt_char_untrackedfiles '…'
 set __fish_git_prompt_char_cleanstate '✓'
 set __fish_git_prompt_char_stagedstate '⇢'
 set __fish_git_prompt_char_conflictedstate "✕"
+
 set __fish_git_prompt_char_upstream_prefix ''
 set __fish_git_prompt_char_upstream_equal ''
 set __fish_git_prompt_char_upstream_ahead '⇡'

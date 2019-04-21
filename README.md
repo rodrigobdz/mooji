@@ -4,6 +4,10 @@
 
 <img src="screenshot.png" width="864">
 
+## Requirements
+
+- [fish](https://github.com/fish-shell/fish-shell) - Tested with v3
+
 ## Installation
 
    ```sh
