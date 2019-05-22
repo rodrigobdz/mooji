@@ -19,9 +19,9 @@ set __fish_git_prompt_color_invalidstate red
 # Git Characters
 set __fish_git_prompt_char_dirtystate '*'
 set __fish_git_prompt_char_stateseparator ' '
-set __fish_git_prompt_char_untrackedfiles '…'
+set __fish_git_prompt_char_untrackedfiles ' …'
 set __fish_git_prompt_char_cleanstate '✓'
-set __fish_git_prompt_char_stagedstate '⇢'
+set __fish_git_prompt_char_stagedstate '⇢ '
 set __fish_git_prompt_char_conflictedstate "✕"
 
 set __fish_git_prompt_char_upstream_prefix ''
