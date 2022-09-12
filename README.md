@@ -15,7 +15,7 @@ There are too many prompts that clutter and overload your terminal, [mooji](http
 ## Installation
 
    ```sh
-   fisher add rodrigobdz/mooji
+   fisher install rodrigobdz/mooji
    ```
 
 ## Related Projects
